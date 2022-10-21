@@ -11,6 +11,13 @@ We will make the led light up when the sensor sense the change of color which is
 
 We will use gesture sensor to control the change in color led. This is cool because it can be used as a motion detector in many different scenario. 
 
+# components
+
+A couple of Leds
+
+A couple of resistor which are 330ohm or 1kohm
+
+A couple of connecting wire
 
 Question:
 What is the sensor return value since it is hard to make it a function without knowing the return value.
