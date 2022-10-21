@@ -18,4 +18,6 @@ What is the sensor return value since it is hard to make it a function without k
 Does the gesture sensor use the clk to perform the sensing process?
 
 How many GPIOs can we use to connect led?
+
+# gif of led
 ![20a931b1d3f83f0ab6660a0571de27fd](https://user-images.githubusercontent.com/113209201/197084205-44b0693a-5bb7-4eb1-a5a9-bde35e7276ae.gif)
