@@ -5,11 +5,8 @@ We plan to build a series of leds that is connected in parallel.
 
 We will firstly make those leds which may contain different color light up in sequence, and design a lighting pattern such as the snake pattern similar to lab2a pattern. This is cool because it is like a gaming rgb device on my desktop.
 
-Then we will use the sensor to control the leds and the sense color and sense gesture is used, 
+we will then make the a light alerting clock that is designed for traffic lights. The red light will first flash with showing :"Wait", then the yellow light flash many times and stop. Finally, the blue light will flash with showing "Ready". 
 
-We will make the led light up when the sensor sense the change of color which is same as lab1 firefly. This is cool because it is very useful to detect the change in brightness.
-
-We will use gesture sensor to control the change in color led. This is cool because it can be used as a motion detector in many different scenario. 
 
 # components
 
@@ -28,3 +25,14 @@ How many GPIOs can we use to connect led?
 
 # gif of led
 ![20a931b1d3f83f0ab6660a0571de27fd](https://user-images.githubusercontent.com/113209201/197084205-44b0693a-5bb7-4eb1-a5a9-bde35e7276ae.gif)
+
+# soildering process
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/113209201/199843624-193f45dd-ec50-4d2a-ad2a-c244dfa2466c.gif)
+
+# the traffic light
+![image](https://user-images.githubusercontent.com/113209201/199844959-cccedf12-d346-43f6-97d4-07c20f2692a3.png)
+![image](https://user-images.githubusercontent.com/113209201/199845019-7958365c-3750-4671-9184-4afc7713e6ef.png)
+
+![91333b39bbc738a13dc5eaac170a822](https://user-images.githubusercontent.com/113209201/199843827-52b99a77-eec4-4c38-8d63-205e7c3bddfb.jpg)
+![927520edabd285b5f17250b07c2cb319 (2)](https://user-images.githubusercontent.com/113209201/199844649-651d14af-3e6d-44d9-bd40-b041eabe2921.gif)
+
